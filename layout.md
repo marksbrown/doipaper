@@ -8,5 +8,5 @@ Results.tex
 figures/numberofsamples/numberofsamples.svg
 figures/ctrdoi/ctrdoi.svg
 Discussion.tex
-figures/energyresolution/energyresolution.svg
-figures/centroidposition/centroidposition.svg
+centroidposition.svg
+energyresolution.svg
