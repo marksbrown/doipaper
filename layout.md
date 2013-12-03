@@ -9,3 +9,4 @@ figures/numberofsamples/numberofsamples.svg
 figures/centroidposition/centroidposition1.svg
 figures/ctrdoi/ctrdoi.svg
 Discussion.tex
+figures/energyresolution/energyresolution1.svg
