@@ -10,6 +10,7 @@ figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
 ctrdiscussion.tex
 figures/centroidposition/centroidposition1.svg
+centroid discussion.tex
 figures/energyresolution/energyresolution1.svg
 Discussion.tex
 Summary.tex
