@@ -14,6 +14,7 @@ centroid discussion.tex
 figures/energyresolution/energyresolution1.svg
 figures/lightoutput/lightoutput.svg
 energy discussion.tex
+20mm Measurements.tex
 figures/numberofsamples-20/numberofsamples-20.svg
 Discussion.tex
 Summary.tex
