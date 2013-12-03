@@ -13,7 +13,7 @@ figures/centroidposition/centroidposition1.svg
 centroid discussion.tex
 figures/energyresolution/energyresolution1.svg
 energy discussion.tex
-Discussion.tex
 figures/lightoutput/lightoutput.svg
+Discussion.tex
 Summary.tex
 Acknowledgements.tex
