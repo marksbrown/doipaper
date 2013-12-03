@@ -7,6 +7,7 @@ Results.tex
 figures/numberofsamples/numberofsamples.svg
 confinementdiscussion.tex
 figures/ctrdoi/ctrdoi.svg
+ctrdiscussion.tex
 figures/centroidposition/centroidposition1.svg
 figures/energyresolution/energyresolution1.svg
 Discussion.tex
