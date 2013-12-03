@@ -12,6 +12,7 @@ ctrdiscussion.tex
 figures/centroidposition/centroidposition1.svg
 centroid discussion.tex
 figures/energyresolution/energyresolution1.svg
+energy discussion.tex
 Discussion.tex
 Summary.tex
 Acknowledgements.tex
