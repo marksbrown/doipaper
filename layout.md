@@ -6,8 +6,6 @@ doi-ctr.tex
 Determining the Time Resolution.tex
 Results.tex
 figures/numberofsamples/numberofsamples.svg
+figures/centroidposition/centroidposition1.svg
 figures/ctrdoi/ctrdoi.svg
 Discussion.tex
-figures/centroidposition/centroidposition1.svg
-centroidposition.svg
-energyresolution.svg
