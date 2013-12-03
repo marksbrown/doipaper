@@ -8,3 +8,4 @@ Results.tex
 figures/numberofsamples/numberofsamples.svg
 figures/ctrdoi/ctrdoi.svg
 Discussion.tex
+figures/centroidposition/centroidposition.svg
