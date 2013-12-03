@@ -17,3 +17,4 @@ energy discussion.tex
 Discussion.tex
 Summary.tex
 Acknowledgements.tex
+Appendix.tex
