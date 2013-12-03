@@ -3,6 +3,7 @@ introduction.tex
 Method.tex
 figures/DOI-CTR/DOI-CTR.svg
 Determining the Time Resolution.tex
+eqnctr.tex
 Results.tex
 figures/numberofsamples/numberofsamples.svg
 confinementdiscussion.tex
