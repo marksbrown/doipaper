@@ -18,6 +18,7 @@ energy discussion.tex
 figures/numberofsamples-20/numberofsamples-20.svg
 figures/ctrdoi-20/ctrdoi-20.svg
 Discussion.tex
+figures/energyresolution-20/energyresolution-20.svg
 figures/centroidposition-20/centroidposition-20.svg
 Summary.tex
 Acknowledgements.tex
