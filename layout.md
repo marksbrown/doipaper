@@ -1,6 +1,5 @@
 abstract.tex
 introduction.tex
-figures/CDT logo/CDT logo.png
 Method.tex
 figures/DOI-CTR/DOI-CTR.svg
 Determining the Time Resolution.tex
