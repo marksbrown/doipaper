@@ -16,8 +16,8 @@ figures/lightoutput/lightoutput.svg
 energy discussion.tex
 20mm Measurements.tex
 figures/numberofsamples-20/numberofsamples-20.svg
-Discussion.tex
 figures/ctrdoi-20/ctrdoi-20.svg
+Discussion.tex
 Summary.tex
 Acknowledgements.tex
 Appendix.tex
