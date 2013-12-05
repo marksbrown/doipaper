@@ -1,8 +1,16 @@
 \section{Method}
 The coincidence apparatus used in this paper is comprised of two Hamamatsu MPPC S10931-050P SiPM connected to CERN-developed NINO discriminators from which the energy and timing information of individual pulses are collected using a LeCroy DDA 735Zi high-bandwidth oscilloscope. Scintillator crystals are coupled to the SiPM photodetectors using Rhorosil 47A optical grease to improve coupling. The optimal threshold and bias values were determined by parameter sweep and are given in table \ref{tab:optimumparam}.
 
-\subsection{Reference Coincidence Measurements}
+\subsection{Standard Coincidence Measurements}
 
+\subsection{Depth Of Interaction Coincidence Measurements}
+The apparatus as described in \cite{arron_Meyer_Pauwels_Lecoq_2012} is altered in several respects as shown in \ref{fig:actualsetup}. Firstly the right photodetector is placed within a 3D-printed clamp, shown in figure \ref{fig:actualsetup}, designed to hold the scintillator crystal vertically with respect to the reference detector. Secondly the Na22 source is moved to a 5mm separation distance from the scintillator crystal under investigation. As in the standard apparatus both scintillator crystals are coupled to the Hamamatsu MPPC S10931-050P SiPM photodetectors using Rhorosil 47A optical grease. 
+
+\subsection{Reference Coincidence Measurements}
+The reference scintillator crystal, shown on the left of \ref{fig:actualsetup}, is a 2×2×5mm3 Ca-co-doped LSO:Ce wrapping in PTFE tape coupled. Using two identical such crystals the coincidence time resolution was determined using the standard coincidence apparatus, values shown in table \ref{tab:referencevals}. This value is agreement with prior measurement\cite{arron_Meyer_Pauwels_Lecoq_2012}.
+
+\begin{table}
+\caption{\label{tab:referencevals} Coincidence time resolution values for $2\times2\times20$ Ca-co-doped LSO:Ce wrapping in PTFE tape for standard and DOI measurements. DOI measurement was repeated twice.}
 \begin{tabular}{llr}
 \hline
        CTR (ps) &    DOI Measurement? &  $\chi_\text{Reduced}$ \\
@@ -12,10 +20,3 @@ The coincidence apparatus used in this paper is comprised of two Hamamatsu MPPC 
      137$\pm$6 &   True &    0.590516 \\
 \hline
 \end{tabular}
-
-\subsection{Standard Coincidence Measurements}
-
-\subsection{Depth Of Interaction Coincidence Measurements}
-The apparatus as described in \cite{arron_Meyer_Pauwels_Lecoq_2012} is altered in several respects as shown in \ref{fig:actualsetup}. Firstly the right photodetector is placed within a 3D-printed clamp, shown in figure \ref{fig:actualsetup}, designed to hold the scintillator crystal vertically with respect to the reference detector. Secondly the Na22 source is moved to a 5mm separation distance from the scintillator crystal under investigation. As in the standard apparatus both scintillator crystals are coupled to the Hamamatsu MPPC S10931-050P SiPM photodetectors using Rhorosil 47A optical grease. 
-
-The reference scintillator crystal, shown on the left of the image, is a 2×2×5mm3 Ca-co-doped LSO:Ce wrapping in PTFE tape coupled. Using two identical such crystals the coincidence time resolution was determined using the standard coincidence apparatus to be $143\pm13$ps. This value is agreement with prior measurement\cite{arron_Meyer_Pauwels_Lecoq_2012}.
