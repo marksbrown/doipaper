@@ -4,9 +4,9 @@ figures/DOI-CTR/DOI-CTR.svg
 Method.tex
 parametertable.tex
 ref table.tex
+figures/actualsetup/actualsetup.png
 Method-2.tex
 Analysis of Data.tex
-figures/actualsetup/actualsetup.png
 Results.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
