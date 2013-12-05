@@ -6,7 +6,6 @@ parametertable.tex
 ref table.tex
 figures/actualsetup/actualsetup.png
 Method-2.tex
-Analysis of Data.tex
 Results.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
