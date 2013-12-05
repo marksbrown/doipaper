@@ -6,7 +6,7 @@ parametertable.tex
 ref table.tex
 Method-2.tex
 figures/actualsetup/actualsetup.png
-Determining the Time Resolution.tex
+Analysis of Data.tex
 Results.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
