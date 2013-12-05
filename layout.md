@@ -1,8 +1,8 @@
 abstract.tex
 introduction.tex
 parametertable.tex
-Method.tex
 ref table.tex
+Method.tex
 figures/DOI-CTR/DOI-CTR.svg
 figures/actualsetup/actualsetup.png
 Determining the Time Resolution.tex
