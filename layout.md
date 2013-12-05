@@ -1,10 +1,10 @@
 abstract.tex
 introduction.tex
+Method.tex
 figures/DOI-CTR/DOI-CTR.svg
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
 Standard.tex
-Method.tex
 figures/actualsetup/actualsetup.png
 Determining the Time Resolution.tex
 Results.tex
