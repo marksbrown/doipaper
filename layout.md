@@ -3,12 +3,12 @@ introduction.tex
 Method.tex
 figures/DOI-CTR/DOI-CTR.svg
 parametertable.tex
-Standard.tex
 figures/actualsetup/actualsetup.png
 Determining the Time Resolution.tex
 Results.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
+Standard.tex
 figures/numberofsamples/numberofsamples.svg
 confinementdiscussion.tex
 figures/ctrdoi/ctrdoi.svg
