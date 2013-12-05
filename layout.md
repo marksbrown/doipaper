@@ -5,8 +5,8 @@ Method.tex
 parametertable.tex
 ref table.tex
 Method-2.tex
-figures/actualsetup/actualsetup.png
 Analysis of Data.tex
+figures/actualsetup/actualsetup.png
 Results.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
