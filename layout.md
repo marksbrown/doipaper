@@ -1,8 +1,8 @@
 abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
-figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 Method.tex
+figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 parametertable.tex
 ref table.tex
 figures/actualsetup/actualsetup.png
