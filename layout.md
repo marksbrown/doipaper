@@ -3,8 +3,8 @@ introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
 parametertable.tex
-Method-2.tex
 ref table.tex
+Method-2.tex
 figures/actualsetup/actualsetup.png
 Determining the Time Resolution.tex
 Results.tex
