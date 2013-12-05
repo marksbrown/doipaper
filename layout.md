@@ -1,6 +1,7 @@
 abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
+figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.svg
 figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 Method.tex
 parametertable.tex
