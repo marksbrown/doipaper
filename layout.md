@@ -2,8 +2,8 @@ abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
-Determining the Time Resolution.tex
 figures/actualsetup/actualsetup.png
+Determining the Time Resolution.tex
 Results.tex
 figures/numberofsamples/numberofsamples.svg
 confinementdiscussion.tex
