@@ -1,6 +1,7 @@
 abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
+figures/standardctr/standardctr.svg
 Standard.tex
 Method.tex
 figures/actualsetup/actualsetup.png
