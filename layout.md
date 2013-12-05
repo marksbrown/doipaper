@@ -4,6 +4,7 @@ figures/DOI-CTR/DOI-CTR.svg
 parametertable.tex
 ref table.tex
 Method.tex
+figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 specific method(s).tex
 figures/actualsetup/actualsetup.png
 Determining the Time Resolution.tex
