@@ -2,6 +2,7 @@ abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Standard Coincidence.tex
+figures/standardctr/standardctr.png
 figures/standardctr/standardctr.svg
 Standard.tex
 Method.tex
