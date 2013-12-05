@@ -4,6 +4,7 @@ figures/DOI-CTR/DOI-CTR.svg
 parametertable.tex
 ref table.tex
 Method.tex
+Method-2.tex
 figures/actualsetup/actualsetup.png
 Determining the Time Resolution.tex
 Results.tex
