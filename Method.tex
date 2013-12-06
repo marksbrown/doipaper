@@ -28,3 +28,6 @@ where $\sigma$ is the time resolution of a single scintillator detector. In case
 
 where $\sigma_\text{ref}$ is the reference time resolution.
 
+\subsection{Analysis of Data}
+Data matching photopeak and edge criteria will provide a Gaussian distribution describing the relative delay between the two scintillator detectors, which we will refer to as the delay distribution. The location and scale parameters of the delay distribution are determined by Levenberg-Marquardt (weighted least-squared) fit, where the error per group is taken as the square root of the number recorded. The error in each parameter is determined by BCA bootstrap.
+
