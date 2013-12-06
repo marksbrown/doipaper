@@ -5,6 +5,7 @@ Method.tex
 parametertable.tex
 Processing Data.tex
 figures/actualsetup/actualsetup.png
+Reference Measurements.tex
 ref table.tex
 Method-2.tex
 Results.tex
