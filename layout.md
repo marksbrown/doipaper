@@ -3,7 +3,6 @@ introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
 parametertable.tex
-figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 Processing Data.tex
 figures/actualsetup/actualsetup.png
 Method-2.tex
@@ -18,6 +17,7 @@ figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
 ctrdiscussion.tex
 figures/centroidposition/centroidposition1.svg
+figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 centroid discussion.tex
 figures/energyresolution/energyresolution1.svg
 figures/lightoutput/lightoutput.svg
