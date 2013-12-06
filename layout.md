@@ -9,7 +9,6 @@ Method 2.tex
 Results.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
-Standard.tex
 Depth of Interaction.tex
 figures/numberofsamples/numberofsamples.svg
 confinementdiscussion.tex
