@@ -2,7 +2,6 @@ abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
-parametertable.tex
 Processing Data.tex
 figures/actualsetup/actualsetup.png
 Reference Measurements.tex
