@@ -2,6 +2,7 @@ abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
+eqn_adjunct.tex
 figures/actualsetup/actualsetup.png
 Reference Measurements.tex
 ref table.tex
