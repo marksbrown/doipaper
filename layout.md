@@ -10,7 +10,7 @@ figures/standardctr/standardctr.svg
 Standard table.tex
 Depth of Interaction.tex
 figures/numberofsamples/numberofsamples.svg
-confinementdiscussion.tex
+30mmMeasurements.tex
 figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
 ctrdiscussion.tex
