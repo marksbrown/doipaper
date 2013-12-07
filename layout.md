@@ -7,7 +7,6 @@ Reference Measurements.tex
 ref table.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
-figures/ratio/ratio.svg
 Standard table.tex
 Depth of Interaction.tex
 figures/numberofsamples/numberofsamples.svg
