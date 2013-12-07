@@ -6,7 +6,6 @@ figures/actualsetup/actualsetup.png
 Reference Measurements.tex
 ref table.tex
 Standard Coincidence.tex
-figures/ratio/ratio.svg
 figures/standardctr/standardctr.svg
 Standard table.tex
 Depth of Interaction.tex
