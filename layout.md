@@ -15,7 +15,6 @@ figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
 ctrdiscussion.tex
 ctrfittable.tex
-other30mmresults.tex
 centroid discussion.tex
 figures/centroidposition/centroidposition1.svg
 figures/energyresolution/energyresolution1.svg
@@ -34,3 +33,4 @@ Acknowledgements.tex
 Appendix.tex
 figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.svg
+other30mmresults.tex
