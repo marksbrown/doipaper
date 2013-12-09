@@ -16,8 +16,8 @@ ctrtable.tex
 ctrdiscussion.tex
 ctrfittable.tex
 other30mmresults.tex
-figures/centroidposition/centroidposition1.svg
 centroid discussion.tex
+figures/centroidposition/centroidposition1.svg
 figures/energyresolution/energyresolution1.svg
 figures/lightoutput/lightoutput.svg
 energy discussion.tex
