@@ -1,6 +1,6 @@
 abstract.tex
-figures/DOI-CTR/DOI-CTR.svg
 introduction.tex
+figures/DOI-CTR/DOI-CTR.svg
 Method.tex
 figures/actualsetup/actualsetup.png
 Reference Measurements.tex
