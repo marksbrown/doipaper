@@ -13,7 +13,7 @@ figures/numberofsamples/numberofsamples.svg
 30mmMeasurements.tex
 figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
-CTRtables.tex
+ctrfittable.tex
 ctrdiscussion.tex
 figures/centroidposition/centroidposition1.svg
 centroid discussion.tex
