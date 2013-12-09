@@ -15,6 +15,7 @@ figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
 ctrdiscussion.tex
 ctrfittable.tex
+other30mmresults.tex
 figures/centroidposition/centroidposition1.svg
 centroid discussion.tex
 figures/energyresolution/energyresolution1.svg
