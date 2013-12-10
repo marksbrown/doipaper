@@ -36,6 +36,7 @@ threshold.tex
 Summary.tex
 Acknowledgements.tex
 Appendix.tex
+Appendix-Method.tex
 figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
 figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.svg
 other30mmresults.tex
