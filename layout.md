@@ -31,6 +31,7 @@ figures/energyresolution-20/energyresolution-20.svg
 figures/lightoutput-20/lightoutput-20.svg
 Discussion.tex
 figures/centroidthreshold/centroidthreshold.svg
+thresholdtable.tex
 threshold.tex
 Summary.tex
 Acknowledgements.tex
