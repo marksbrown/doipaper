@@ -30,8 +30,8 @@ figures/centroidposition-20/centroidposition-20.svg
 figures/energyresolution-20/energyresolution-20.svg
 figures/lightoutput-20/lightoutput-20.svg
 thresholdtable.tex
-Discussion.tex
 figures/centroidthreshold/centroidthreshold.svg
+Discussion.tex
 threshold.tex
 Summary.tex
 Acknowledgements.tex
