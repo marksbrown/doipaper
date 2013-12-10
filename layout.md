@@ -16,8 +16,8 @@ ctrtable.tex
 ctrdiscussion.tex
 ctrfittable.tex
 centroid discussion.tex
-figures/centroidposition/centroidposition1.png
-figures/energyresolution/energyresolution1.png
+figures/centroidposition/centroidposition.png
+figures/energyresolution/energyresolution.png
 figures/lightoutput/lightoutput.png
 energy discussion.tex
 20mm Measurements.tex
@@ -37,5 +37,5 @@ Summary.tex
 Acknowledgements.tex
 Appendix.tex
 Appendix-Method.tex
-figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
-figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.svg
+figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.png
+figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.png

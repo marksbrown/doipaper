@@ -16,8 +16,8 @@ ctrtable.tex
 ctrdiscussion.tex
 ctrfittable.tex
 centroid discussion.tex
-figures/centroidposition/centroidposition1.svg
-figures/energyresolution/energyresolution1.svg
+figures/centroidposition/centroidposition.svg
+figures/energyresolution/energyresolution.svg
 figures/lightoutput/lightoutput.svg
 energy discussion.tex
 20mm Measurements.tex
