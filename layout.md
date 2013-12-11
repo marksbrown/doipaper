@@ -9,6 +9,7 @@ Standard Coincidence.tex
 figures/standardctr/standardctr.png
 figures/standardctr/standardctr.svg
 Standard table.tex
+figures/standardctr/standardctr1.svg
 Depth of Interaction.tex
 figures/numberofsamples/numberofsamples.svg
 30mmMeasurements.tex
