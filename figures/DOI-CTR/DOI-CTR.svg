@@ -13,10 +13,17 @@
    height="250"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="DOI-CTR.svg">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 125 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="460.51999 : 125 : 1"
+       inkscape:persp3d-origin="230.25999 : 83.333333 : 1"
+       id="perspective51" />
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
@@ -54,19 +61,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7022314"
-     inkscape:cx="324.94875"
-     inkscape:cy="157.72813"
+     inkscape:cx="315.74228"
+     inkscape:cy="178.17755"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -86,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,9 +104,9 @@
      transform="translate(-99.25,-326.84375)">
     <rect
        y="-517.39423"
-       x="189.77119"
-       height="19.386396"
-       width="299.38638"
+       x="328.41275"
+       height="19.386353"
+       width="160.74484"
        id="rect2985-0"
        style="opacity:0.4;fill:#7fc97f;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        transform="matrix(0,1,-1,0,0,0)" />
@@ -279,34 +286,37 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Miso;-inkscape-font-specification:Miso Light"
-       x="379.15735"
-       y="241.87677"
+       x="367.70178"
+       y="180.48676"
        id="text3897-3-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="379.15735"
-         y="241.87677"
-         id="tspan3901-65-7">D.O.I</tspan><tspan
+         x="367.70178"
+         y="180.48676"
+         id="tspan3989">Confinement</tspan><tspan
          sodipodi:role="line"
-         x="379.15735"
-         y="259.37677"
-         id="tspan3989">Region</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow2Lend)"
-       d="m 445.52235,286.10156 0,82.99015"
-       id="path3023"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+         x="367.70178"
+         y="197.98676"
+         id="tspan2866">Region</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4361"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Miso;-inkscape-font-specification:Miso Light"
-       transform="translate(-18,151.6875)"><flowRegion
+       transform="translate(-22.11225,87.947635)"><flowRegion
          id="flowRegion4363"><rect
            id="rect4365"
            width="35.247852"
            height="31.723066"
            x="452.93491"
            y="168.34248" /></flowRegion><flowPara
-         id="flowPara4367">Z</flowPara></flowRoot>  </g>
+         id="flowPara4367">DOI</flowPara></flowRoot>    <g
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Miso;-inkscape-font-specification:Miso"
+       id="text2857">
+      <path
+         d="m 433.76044,269.99973 c -1e-5,-0.59999 0.13199,-1.13999 0.396,-1.62 0.26399,-0.50398 0.62399,-0.92398 1.08,-1.26 -0.45601,-0.33598 -0.81601,-0.74398 -1.08,-1.224 -0.26401,-0.50398 -0.39601,-1.05598 -0.396,-1.656 l 0,-45.2 c -1e-5,-0.59997 -0.21601,-1.11597 -0.648,-1.548 -0.40801,-0.43197 -0.91201,-0.64797 -1.512,-0.648 -0.19201,3e-5 -0.36,-0.06 -0.504,-0.18 -0.144,-0.14397 -0.216,-0.31197 -0.216,-0.504 0,-0.19197 0.072,-0.34797 0.216,-0.468 0.144,-0.14397 0.31199,-0.21597 0.504,-0.216 0.47999,3e-5 0.93599,0.096 1.368,0.288 0.43199,0.16803 0.80399,0.42003 1.116,0.756 0.33599,0.31203 0.59999,0.68403 0.792,1.116 0.19199,0.43203 0.28799,0.90003 0.288,1.404 l 0,45.2 c -1e-5,0.62402 0.20399,1.15202 0.612,1.584 0.43199,0.40802 0.95999,0.61202 1.584,0.612 0.19199,2e-5 0.34799,0.072 0.468,0.216 0.14399,0.12002 0.21599,0.27602 0.216,0.468 -1e-5,0.19202 -0.072,0.36002 -0.216,0.504 -0.12001,0.12002 -0.27601,0.18002 -0.468,0.18 -0.62401,2e-5 -1.15201,0.21602 -1.584,0.648 -0.40801,0.43201 -0.61201,0.94801 -0.612,1.548 l 0,43.92 c -1e-5,0.504 -0.096,0.972 -0.288,1.404 -0.19201,0.432 -0.45601,0.804 -0.792,1.116 -0.31201,0.336 -0.68401,0.588 -1.116,0.756 -0.43201,0.192 -0.88801,0.288 -1.368,0.288 -0.19201,0 -0.36,-0.072 -0.504,-0.216 -0.144,-0.12 -0.216,-0.276 -0.216,-0.468 0,-0.192 0.072,-0.36 0.216,-0.504 0.144,-0.12 0.31199,-0.18 0.504,-0.18 0.59999,0 1.10399,-0.216 1.512,-0.648 0.43199,-0.408 0.64799,-0.924 0.648,-1.548 l 0,-43.92 0,0"
+         id="path2862"
+         sodipodi:nodetypes="cscscccsssssccscccssssscccsccssssscccc"
+         style="" />
+    </g>
+  </g>
 </svg>
