@@ -3,8 +3,8 @@ introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
 figures/actualsetup/actualsetup.png
-Reference Measurements.tex
 ref table.tex
+Reference Measurements.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.png
 Standard table.tex
