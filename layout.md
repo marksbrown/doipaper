@@ -20,8 +20,8 @@ centroid discussion.tex
 figures/energyresolution/energyresolution.svg
 figures/lightoutput/lightoutput.svg
 energy discussion.tex
-20mm Measurements.tex
 figures/numberofsamples-20/numberofsamples-20.svg
+20mm Measurements.tex
 figures/ctrdoi-20/ctrdoi-20.svg
 ctrtable 20.tex
 ctrfit-20table.tex
