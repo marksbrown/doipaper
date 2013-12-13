@@ -6,7 +6,7 @@ figures/actualsetup/actualsetup.png
 ref table.tex
 Reference Measurements.tex
 Standard Coincidence.tex
-figures/standardctr/standardctr.svg
+figures/standardctr/standardctr.png
 Standard table.tex
 Depth of Interaction.tex
 figures/numberofsamples/numberofsamples.svg
@@ -15,8 +15,8 @@ figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
 ctrdiscussion.tex
 ctrfittable.tex
-centroid discussion.tex
 figures/centroidposition/centroidposition.svg
+centroid discussion.tex
 figures/energyresolution/energyresolution.svg
 figures/lightoutput/lightoutput.svg
 energy discussion.tex
