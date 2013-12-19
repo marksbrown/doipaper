@@ -1,42 +1,42 @@
 abstract.tex
 introduction.tex
-figures/DOI-CTR/DOI-CTR.svg
+figures/DOI-CTR/DOI-CTR.png
 Method.tex
 figures/actualsetup/actualsetup.png
 ref table.tex
 Reference Measurements.tex
 Standard Coincidence.tex
-figures/standardctr/standardctr.svg
+figures/standardctr/standardctr.png
 Standard table.tex
 Depth of Interaction.tex
-figures/numberofsamples/numberofsamples.svg
+figures/numberofsamples/numberofsamples.png
 30mmMeasurements.tex
-figures/ctrdoi/ctrdoi.svg
+figures/ctrdoi/ctrdoi.png
 ctrtable.tex
 ctrfittable.tex
 ctrdiscussion.tex
-figures/centroidposition/centroidposition.svg
+figures/centroidposition/centroidposition.png
 centroid discussion.tex
-figures/energyresolution/energyresolution.svg
-figures/lightoutput/lightoutput.svg
+figures/energyresolution/energyresolution.png
+figures/lightoutput/lightoutput.png
 energy discussion.tex
-figures/numberofsamples-20/numberofsamples-20.svg
+figures/numberofsamples-20/numberofsamples-20.png
 20mm Measurements.tex
-figures/ctrdoi-20/ctrdoi-20.svg
+figures/ctrdoi-20/ctrdoi-20.png
 ctrtable 20.tex
 ctrfit 20table.tex
-figures/centroidposition-20/centroidposition-20.svg
+figures/centroidposition-20/centroidposition-20.png
 Other20mmResults.tex
-figures/energyresolution-20/energyresolution-20.svg
-figures/lightoutput-20/lightoutput-20.svg
+figures/energyresolution-20/energyresolution-20.png
+figures/lightoutput-20/lightoutput-20.png
 energy-20 discussion.tex
 thresholdtable.tex
-figures/centroidthreshold/centroidthreshold.svg
+figures/centroidthreshold/centroidthreshold.png
 threshold.tex
 Discussion.tex
 Summary.tex
 Acknowledgements.tex
 Appendix.tex
 Appendix-Method.tex
-figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.svg
-figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.svg
+figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.png
+figures/Run_23972vs24044Reference_00005_IndexData/Run_23972vs24044Reference_00005_IndexData.png

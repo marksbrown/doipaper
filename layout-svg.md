@@ -3,8 +3,8 @@ introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
 figures/actualsetup/actualsetup.png
-Reference Measurements.tex
 ref table.tex
+Reference Measurements.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.svg
 Standard table.tex
@@ -13,22 +13,23 @@ figures/numberofsamples/numberofsamples.svg
 30mmMeasurements.tex
 figures/ctrdoi/ctrdoi.svg
 ctrtable.tex
-ctrdiscussion.tex
 ctrfittable.tex
-centroid discussion.tex
+ctrdiscussion.tex
 figures/centroidposition/centroidposition.svg
+centroid discussion.tex
 figures/energyresolution/energyresolution.svg
 figures/lightoutput/lightoutput.svg
 energy discussion.tex
-20mm Measurements.tex
 figures/numberofsamples-20/numberofsamples-20.svg
+20mm Measurements.tex
 figures/ctrdoi-20/ctrdoi-20.svg
 ctrtable 20.tex
-ctrfit-20table.tex
-Other20mmResults.tex
+ctrfit 20table.tex
 figures/centroidposition-20/centroidposition-20.svg
+Other20mmResults.tex
 figures/energyresolution-20/energyresolution-20.svg
 figures/lightoutput-20/lightoutput-20.svg
+energy-20 discussion.tex
 thresholdtable.tex
 figures/centroidthreshold/centroidthreshold.svg
 threshold.tex
