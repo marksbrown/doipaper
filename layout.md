@@ -13,9 +13,9 @@ figures/numberofsamples/numberofsamples.png
 30mmMeasurements.tex
 figures/ctrdoi/ctrdoi.png
 ctrtable.tex
-ctrfittable.tex
 ctrfitdiscussion.tex
 ctrdiscussion.tex
+ctrfittable.tex
 figures/centroidposition/centroidposition.png
 centroid discussion.tex
 figures/energyresolution/energyresolution.png
