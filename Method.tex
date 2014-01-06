@@ -2,8 +2,7 @@
 \subsection{Overview}
 The timing coincidence apparatus used in this paper is comprised of two Hamamatsu MPPC S10931-050P SiPMs connected to CERN-developed NINO leading-edge discriminators from which the energy and timing information of individual pulses are collected using a LeCroy DDA 735Zi high-bandwidth oscilloscope. The coincidence apparatus is held within a temperature-controlled chamber to maintain stability of photodetector performance. Further to this, the first 5 minutes of each measurement is discarded due to any potential contribution of temperature variation.
 
-Scintillator crystals are coupled to the SiPM photodetectors using Rhorosil 47V optical grease to improve light output. The refractive indices of L(Y)SO and the optical grease are approximately 1.8 and 1.4\footnote{\href{http://www.silitech.ch/upload/complement_info_fournisseur_d/32.pdf}{http://www.silitech.ch/upload/complement_info_fournisseur_d/32.pdf}} respectively.
- Wrapped scintillator crystals are tightly bound in many layers of Teflon to ensure good coupling between the scintillator crystal and wrap. Prior to wrapping and usage all scintillator crystals are cleaned using methanol. All scintillator crystals are handled with carbon-tipped tweezers to prevent formation of surface defects which may degrade the scintillator crystal performance. 
+Scintillator crystals are coupled to the SiPM photodetectors using Rhorosil 47V optical grease to improve light output. The refractive indices of L(Y)SO and the optical grease are approximately 1.8 and 1.4\footnote{\href{http://www.silitech.ch/upload/complement_info_fournisseur_d/32.pdf}{http://www.silitech.ch/upload/complement_info_fournisseur_d/32.pdf}} respectively. Wrapped scintillator crystals are tightly bound in many layers of Teflon to ensure good coupling between the scintillator crystal and wrap. Prior to wrapping and usage, all scintillator crystals are cleaned using methanol. All scintillator crystals are handled with carbon-tipped tweezers to prevent formation of surface defects which may degrade the scintillator crystal performance. 
 
 The optimal threshold and bias values of the SiPMs were determined by parameter sweep and are given in table \ref{tab:optimumparam}. An excellent description of the experimental method can be found in \cite{ch_Meyer_Pizzichemi_Lecoq_2013}.
 
@@ -28,7 +27,7 @@ $\gamma$ events falling within $2\sigma$ of the photopeak centroid of their resp
 \text{CTR} = 2\sqrt{\ln{2}}\sigma
 \end{align}
 
-where $\sigma$ is the time resolution of a single scintillator detector. In cases where we use a reference scintillator detector with a known time resolution, the CTR of an unknown scintillator detector is determined by subtraction in quadrature and a subsequent scaling such that
+where $\sigma$ is the time resolution of a single scintillator detector. This relationship is due to the convolution of two identical Gaussian distributions corresponding to the individual scintillator detectors. In cases where we use a reference scintillator detector with a known time resolution, the CTR of an unknown scintillator detector is determined by subtraction in quadrature and a subsequent scaling such that
 
 \begin{align}
 \text{CTR} = 4\sqrt{\ln{2}}\sqrt{\sigma-\sigma_\textrm{ref}^2}
@@ -37,5 +36,4 @@ where $\sigma$ is the time resolution of a single scintillator detector. In case
 where $\sigma_\text{ref}$ is the reference time resolution. All CTR values in this paper are given in picoseconds.
 
 \subsection{Analysis of Data}
-The location and scale parameters of each Gaussian are determined by the Levenberg-Marquardt (weighted least-squared) fit, where the error per bin is taken as the square root of the number recorded. The error in each parameter is determined by BCA bootstrap. The full code used to perform the peak detection, peak fitting and parameter error determination can be found at \href{https://github.com/marksbrown/ProcessingCTRData}{https://github.com/marksbrown/ProcessingCTRData}.
-
+The parameters describing the location and scale of the Gaussian distributions, namely the photopeaks and delay peak per measurement, were found by weighted least-squared fit. The error per bin was assumed poissonian and thus taken as the square root of the number of measurements per bin. The standard error in the fit parameters were determined by the bootstrap\cite{degroot2012probability}. The full code used to perform the peak detection, peak fitting, parameter error determination and image \& table generation can be found at \href{https://github.com/marksbrown/ProcessingCTRData}{https://github.com/marksbrown/ProcessingCTRData}.
