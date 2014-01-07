@@ -24,6 +24,7 @@ figures/ctrdoi-20/ctrdoi-20.png
 ctrtable 20.tex
 20mm Measurements.tex
 figures/centroidposition-20/centroidposition-20.png
+ctr20discussion.tex
 Other20mmResults.tex
 figures/energyresolution-20/energyresolution-20.png
 figures/lightoutput-20/lightoutput-20.png
