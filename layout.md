@@ -33,7 +33,6 @@ thresholdtable.tex
 figures/centroidthreshold/centroidthreshold.png
 threshold.tex
 Discussion.tex
-Summary.tex
 Acknowledgements.tex
 Appendix-Method.tex
 figures/Run_23972vs24044Reference_00005_CTR/Run_23972vs24044Reference_00005_CTR.png
