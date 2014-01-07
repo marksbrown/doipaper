@@ -14,7 +14,6 @@ figures/numberofsamples/numberofsamples.png
 figures/ctrdoi/ctrdoi.png
 ctrtable.tex
 ctrdiscussion.tex
-ctrfittable.tex
 ctrfitdiscussion.tex
 figures/centroidposition/centroidposition.png
 centroid discussion.tex
