@@ -24,7 +24,6 @@ figures/numberofsamples-20/numberofsamples-20.png
 20mm Measurements.tex
 figures/ctrdoi-20/ctrdoi-20.png
 ctrtable 20.tex
-ctrfit 20table.tex
 figures/centroidposition-20/centroidposition-20.png
 Other20mmResults.tex
 figures/energyresolution-20/energyresolution-20.png
