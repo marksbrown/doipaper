@@ -21,8 +21,8 @@ figures/lightoutput/lightoutput.png
 energy discussion.tex
 figures/numberofsamples-20/numberofsamples-20.png
 figures/ctrdoi-20/ctrdoi-20.png
-20mm Measurements.tex
 ctrtable 20.tex
+20mm Measurements.tex
 figures/centroidposition-20/centroidposition-20.png
 Other20mmResults.tex
 figures/energyresolution-20/energyresolution-20.png
