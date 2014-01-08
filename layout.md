@@ -3,7 +3,7 @@ introduction.tex
 figures/DOI-CTR/DOI-CTR.png
 Method.tex
 optimumparamtable.tex
-Method-2.tex
+Method 2.tex
 figures/actualsetup/actualsetup.png
 Reference Measurements.tex
 ref table.tex
