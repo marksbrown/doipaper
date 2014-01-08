@@ -2,6 +2,7 @@ abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.png
 Method.tex
+Method-2.tex
 optimumparamtable.tex
 figures/actualsetup/actualsetup.png
 ref table.tex
