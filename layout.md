@@ -30,7 +30,7 @@ figures/centroidposition-20/centroidposition-20.png
 Other20mmResults.tex
 figures/energyresolution-20/energyresolution-20.png
 figures/lightoutput-20/lightoutput-20.png
-energy-20 discussion.tex
+energy 20 discussion.tex
 thresholdtable.tex
 figures/centroidthreshold/centroidthreshold.png
 threshold.tex
