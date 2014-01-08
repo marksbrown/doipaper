@@ -5,8 +5,8 @@ Method.tex
 optimumparamtable.tex
 Method-2.tex
 figures/actualsetup/actualsetup.png
-ref table.tex
 Reference Measurements.tex
+ref table.tex
 Standard Coincidence.tex
 figures/standardctr/standardctr.png
 Standard table.tex
