@@ -1,4 +1,5 @@
 abstract.tex
+aatable.tex
 HTML Table Test.html
 introduction.tex
 figures/DOI-CTR/DOI-CTR.png
