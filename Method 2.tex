@@ -5,13 +5,13 @@ $\gamma$ events falling within $2\sigma$ of the photopeak centroid of their resp
 %Secondly, the finite bandwidth of the 40GS/s high-bandwidth oscilloscope will lead to multiple events recorded per sampling period. This is due to overlapping independent interactions within the scintillator detector. To reduce noise (and ambiguity) we select for periods containing two $\gamma$ detections only. Events matching these criteria are grouped to produce a subset of data solely due $\gamma\gamma$ correlations. ----First sentence is wrong. The paragraph seems OK to me without these sentences.
 
 \begin{align}
-\text{CTR} = 4\sqrt{\ln{2}}\sigma %the factor 2 makes no sense! Must be 4
+\text{CTR} = 4\sqrt{\ln{2}}\sigma 
 \end{align}
 
 where $\sigma$ is the time resolution of a single scintillator detector. This relationship is due to the convolution of two identical Gaussian distributions corresponding to the individual scintillator detectors. In cases where we use a reference scintillator detector with a known time resolution, the CTR of an unknown scintillator detector is determined by subtraction in quadrature and a subsequent scaling such that
 
 \begin{align}
-\text{CTR} = 4\sqrt{\ln{2}}\sqrt{\sigma^2-\sigma_\textrm{ref}^2}
+\text{CTR} = 4\sqrt{\ln{2}}\sqrt{\sigma_{measured \, in \, coincidence}^2-\sigma_\textrm{ref}^2}
 \end{align}
 
 where $\sigma_\text{ref}$ is the reference time resolution. All CTR values in this paper are given in picoseconds.
