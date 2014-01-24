@@ -7,5 +7,13 @@ The code attached to this paper performs the following tasks :
 \begin{enumerate}
 \item Load grouped data into memory
 \item Searches for and fits to Gaussian peaks in energy data
-\item 
+\item Searches for events which record only two gamma ray photons
+\item Select events matching photopeak and two event criteria
+\item Use above to select for true gamma-gamma events only
+\item Fit to delay peak. Determine error in fit using BCA bootstrap.
+\item Return results
 \end{enumerate}
+
+Processed data for each set of parameter - scintillator crystals, configurations and shapes are combined and plotted in the following notebooks :
+
+\href{http://nbviewer.ipython.org/github/marksbrown/doipaper/blob/master/notebooks/Generate%20Images.ipynb}{Generated Images}
