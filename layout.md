@@ -33,3 +33,4 @@ figures/lightoutput-20/lightoutput-20.png
 energy 20 discussion.tex
 Discussion.tex
 Acknowledgements.tex
+funding.tex
