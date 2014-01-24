@@ -34,4 +34,5 @@ energy 20 discussion.tex
 Discussion.tex
 Acknowledgements.tex
 funding.tex
+testimage.tex
 Appendix.tex
