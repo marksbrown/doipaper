@@ -2,21 +2,17 @@
 The positron emission from the Na22 source will generate two 0.511MeV gamma ray photons in opposition correlated in time. By selecting for events which interact solely by the photoelectric effect we ensure that the incident gamma ray photon has interacted with matter only once. Therefore if two gamma ray photons are detected in opposition within a small time window, it is highly likely they are from the same electron-positron annhilation. It is this 'electronic collimination' timing property which ensures we only record events from within the confinement region. These events are found by selecting the subset of interactions which fall within $2\sigma$ of the photopeak centroid of their respective energy spectra. This narrow range is chosen to drastically reduce the contribution of overlapping Compton interactions. When two gamma ray photons are detected within their respective photopeak energy ranges, within a nanosecond of each other, the relative time delay between the two is recorded. For many such true events the relative difference in  arrival time is histogrammed to produce a Gaussian distribution. This will be referred to as the (relative) delay peak. For two identical photodetectors the FWHM of the delay peak is defined as the coincidence time resolution (CTR), such that
 
 \begin{align}
-\text{CTR} = 2\sqrt{2\ln{2}}\sigma_\textrm{measured}
+\text{CTR} &= 2\sqrt{2\ln{2}}\sigma_\textrm{measured}\\
+\text{CTR} &= 4\sqrt{\ln{2}}\sigma
 \label{eqn:ctrtoscale}
 \end{align}
 
-where $\sigma_\textrm{measured}$ is the scale parameter measured from the delay peak. The delay peak is formed from the convolution of two Gaussian distributions, correponding to the delay peaks of the individual scintillator detectors. For two identical scintillator detectors, with two identical Gaussian distributions, the time resolution is found by multiplying $\sigma_\textrm{measured}$ by a factor of $\sqrt{2}$ such that
-\begin{align}
-\sigma_\textrm{measured} = \sqrt{\sigma^2+\sigma^2}\\
-\text{CTR} = 4\sqrt{\ln{2}}\sigma
-\label{eqn:trtoctr}
-\end{align}
-where $\sigma$ is the time resolution of the scintillator detector. In cases where we use a reference scintillator detector with a known time resolution, the CTR of an unknown scintillator detector is determined by subtraction in quadrature and a subsequent scaling such that
+where $\sigma_\textrm{measured}$ is the scale parameter measured from the delay peak and $\sigma$ is the time resolution of the scintillator detector. This relationship holds because the delay peak is formed from the convolution of two Gaussian distributions, correponding to the delay peaks of the individual scintillator detectors. In cases where we use a reference scintillator detector with a known time resolution, the CTR of an unknown scintillator detector is determined by subtraction in quadrature and a subsequent scaling such that
 
 \begin{align}
-\sigma_\textrm{measured} = \sqrt{\sigma_textrm{ref}^2+\sigma^2}\\
-\text{CTR} = 4\sqrt{\ln{2}}\sqrt{\sigma_\textrm{measured}^2-\sigma_\textrm{ref}^2}
+\sigma_\textrm{measured} &= \sqrt{\sigma_textrm{ref}^2+\sigma^2}\\
+\sigma &= \sqrt{\sigma_\textrm{measured} - \sigma_textrm{ref}^2}\\
+\text{CTR} &= 4\sqrt{\ln{2}}\sqrt{\sigma_\textrm{measured}^2-\sigma_\textrm{ref}^2}
 \end{align}
 
 where $\sigma_\text{ref}$ is the (known) reference time resolution. All CTR values in this paper are given in picoseconds.
