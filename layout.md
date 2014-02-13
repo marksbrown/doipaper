@@ -2,6 +2,7 @@ abstract.tex
 introduction.tex
 figures/DOI-CTR/DOI-CTR.svg
 Method.tex
+figures/DOI-CTR1/CTR1.svg
 optimumparamtable.tex
 Method 2.tex
 figures/actualsetup/actualsetup.svg
