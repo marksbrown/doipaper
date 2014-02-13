@@ -1,35 +1,35 @@
 abstract.tex
 introduction.tex
-figures/DOI-CTR/DOI-CTR.svg
+figures/DOI-CTR/DOI-CTR.png
 Method.tex
 optimumparamtable.tex
 Method 2.tex
-figures/actualsetup/actualsetup.svg
+figures/actualsetup/actualsetup.png
 Reference Measurements.tex
 ref table.tex
 Standard Coincidence.tex
-figures/standardctr/standardctr.svg
+figures/standardctr/standardctr.png
 Standard table.tex
 Depth of Interaction.tex
-figures/numberofsamples/numberofsamples.svg
+figures/numberofsamples/numberofsamples.png
 30mmMeasurements.tex
-figures/ctrdoi/ctrdoi.svg
+figures/ctrdoi/ctrdoi.png
 ctrtable.tex
 ctrdiscussion.tex
-figures/centroidposition/centroidposition.svg
+figures/centroidposition/centroidposition.png
 centroid discussion.tex
-figures/energyresolution/energyresolution.svg
-figures/lightoutput/lightoutput.svg
+figures/energyresolution/energyresolution.png
+figures/lightoutput/lightoutput.png
 energy discussion.tex
-figures/numberofsamples-20/numberofsamples-20.svg
+figures/numberofsamples-20/numberofsamples-20.png
 20mm Measurements.tex
-figures/ctrdoi-20/ctrdoi-20.svg
+figures/ctrdoi-20/ctrdoi-20.png
 ctrtable 20.tex
 ctr20discussion.tex
-figures/centroidposition-20/centroidposition-20.svg
+figures/centroidposition-20/centroidposition-20.png
 Other20mmResults.tex
-figures/energyresolution-20/energyresolution-20.svg
-figures/lightoutput-20/lightoutput-20.svg
+figures/energyresolution-20/energyresolution-20.png
+figures/lightoutput-20/lightoutput-20.png
 energy 20 discussion.tex
 Discussion.tex
 Acknowledgements.tex
